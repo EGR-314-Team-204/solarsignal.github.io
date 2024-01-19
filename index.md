@@ -1,9 +1,7 @@
 ---
 title: Home
 ---
-* Solar Garden Station 
-* EGR 304
-* Spring 2024
+
 # Home
 
 ## Introduction
