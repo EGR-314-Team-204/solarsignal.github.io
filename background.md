@@ -5,13 +5,13 @@ title: Home
 # Home
 
 ## Introduction
-Solar Garden Station 
-EGR 304
-Spring 2024
-Brennan Potter
-Gavin Nielsen
-Jerimiah Herrera 
-Jacob Cousins
+* Solar Garden Station 
+* EGR 304
+* Spring 2024
+  Brennan Potter
+  Gavin Nielsen
+  Jerimiah Herrera 
+  Jacob Cousins
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
