@@ -1,13 +1,13 @@
 ---
 title: Home
 ---
-
-# Home
-
-## Introduction
 * Solar Garden Station 
 * EGR 304
 * Spring 2024
+# Home
+
+## Introduction
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
