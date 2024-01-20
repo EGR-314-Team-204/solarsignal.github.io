@@ -10,6 +10,15 @@ Garden Weather Station
 EGR 304
 
 2024
+
+Brennean Potter
+
+Gaving Nielsen
+
+Jerimah Herrera
+
+Jacob Cousins
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
