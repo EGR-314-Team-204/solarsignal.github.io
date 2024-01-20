@@ -7,9 +7,9 @@ title: Home
 ## Introduction
 Garden Weather Station
 
-EGR 304
+EGR 314
 
-2024
+Spring 2024
 
 Brennan Potter
 
