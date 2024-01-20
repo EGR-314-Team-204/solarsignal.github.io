@@ -11,7 +11,7 @@ EGR 304
 
 2024
 
-Brennean Potter
+Brennan Potter
 
 Gavin Nielsen
 
