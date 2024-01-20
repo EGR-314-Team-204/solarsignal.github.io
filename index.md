@@ -13,7 +13,7 @@ EGR 304
 
 Brennean Potter
 
-Gaving Nielsen
+Gavin Nielsen
 
 Jerimah Herrera
 
