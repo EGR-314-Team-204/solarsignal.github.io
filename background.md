@@ -5,7 +5,8 @@ title: Home
 # Home
 
 ## Introduction
-EGR 314 
+EGR 314
+
 Team 204: Solar Signal
 
 **Bold Text**
