@@ -5,7 +5,11 @@ title: Home
 # Home
 
 ## Introduction
+Garden Weather Station
 
+EGR 304
+
+2024
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
