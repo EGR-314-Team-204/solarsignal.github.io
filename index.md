@@ -7,7 +7,7 @@ title: Home
 ## Introduction
 Garden Weather Station
 
-EGR 314
+EGR 314: Embedded Systems Design Project II
 
 Spring 2024
 
