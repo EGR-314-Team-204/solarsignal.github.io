@@ -22,7 +22,7 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 
 
 | Name | First Choice | Second Choice | Third Choice |
-
+| --- | --- | --- | --- | 
 
 
 ### Meeting Coordination:
