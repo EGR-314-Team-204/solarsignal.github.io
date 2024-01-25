@@ -22,8 +22,11 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 
 
 | Name | First Choice | Second Choice | Third Choice |
-| --- | --- | --- | --- | 
+| ---- | ------------ | ------------- | ------------ | 
 | Jacob Cousins | Discord | Text | In-Person |
+| Jeremiah Herrera | Discord | Text | In-Person |
+| Brennan Potter | Discord | Text | In-Person |
+| Gavin Nielsen | Discord | Text | In-Person |
 
 
 ### Meeting Coordination:
