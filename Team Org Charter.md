@@ -23,6 +23,7 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 
 | Name | First Choice | Second Choice | Third Choice |
 | --- | --- | --- | --- | 
+| Jacob Cousins | Discord | Text | In-Person |
 
 
 ### Meeting Coordination:
