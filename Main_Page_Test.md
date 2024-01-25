@@ -1,4 +1,4 @@
-# Title: Solar Garden Weather Station
+# Solar Garden Weather Station
 
 ## Team 204
 
