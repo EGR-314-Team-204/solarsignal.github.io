@@ -10,7 +10,9 @@ EGR 314
 Team 204: Solar Signal
 
 **Bold Text**
+
 _Italic Text_
+
 **_Bold and Italic Text_**
 
 ## Research Question
