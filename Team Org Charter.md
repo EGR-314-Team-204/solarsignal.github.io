@@ -6,7 +6,7 @@ idk what to put here
 We aim to engineer a dynamic solar panel system that autonomously tracks the sun's position using temperature and light sensing technologies. By optimizing solar exposure, we aim to generate power, which can be put into rechargeable batteries and used elsewhere.In addition, the device can track other weather elements such as temperature, humidity, and soil conditions utilizing sensor and wifi capabilities.
 
 
-## **Rest of this goes into** 
+**Rest of this goes into** 
 
 “Appendix A: Team Organization”
 
