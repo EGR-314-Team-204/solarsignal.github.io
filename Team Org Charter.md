@@ -18,7 +18,9 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 * Make the design as cost-effective as possible.
 * The design must be durable and able to handle adverse weather conditions.
 
+## Communication Channels:
 
+| Name |
 
 
 ### Meeting Coordination:
