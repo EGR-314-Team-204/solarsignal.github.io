@@ -12,7 +12,6 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 “Appendix A: Team Organization”
 
 ### Team Goals:
---
 
 * Make a functional weather station.
 * We want to make it self-sufficient.
