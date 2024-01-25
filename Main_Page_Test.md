@@ -6,15 +6,7 @@
 
 Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
 
-## Preperation Date:
-
-
-
-
-
-
-
-
+## Preperation Date: _idk what to put here_
 
 
 Arizona State University
