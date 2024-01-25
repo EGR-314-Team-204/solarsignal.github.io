@@ -4,4 +4,4 @@ Team 204
 
 Team Members:
 
-# Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
+### Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
