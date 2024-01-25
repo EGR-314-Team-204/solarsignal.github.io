@@ -28,6 +28,9 @@ We aim to engineer a dynamic solar panel system that autonomously tracks the sun
 | Brennan Potter | Discord | Text | In-Person |
 | Gavin Nielsen | Discord | Text | In-Person |
 
+## Meeting Schedule:
+
+This is a really big table that provides nothing to even an appendix page so I wonder if we can just leave this out
 
 ### Meeting Coordination:
 
