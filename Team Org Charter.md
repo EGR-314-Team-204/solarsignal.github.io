@@ -8,11 +8,12 @@ Rest of this goes into
 
 “Appendix A: Team Organization”
 
-Team Goals:
-Make a functional weather station.
-We want to make it self-sufficient.
-Make the design as cost-effective as possible.
-The design must be durable and able to handle adverse weather conditions.
+## Team Goals:
+
+* Make a functional weather station.
+* We want to make it self-sufficient.
+* Make the design as cost-effective as possible.
+* The design must be durable and able to handle adverse weather conditions.
 
 
 
