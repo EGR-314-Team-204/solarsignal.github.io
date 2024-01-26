@@ -5,7 +5,9 @@ title: Background
 # Background
 
 ## Introduction
+EGR 314
 
-## Conclusions
+Team 204: Solar Signal
+
 
 ## References
