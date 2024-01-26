@@ -17,3 +17,5 @@ Professor Travis Kelly
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg5NTE0Mzg5XX0=
 -->
+
+[Team Organization Charter](https://idealab.asu.edu)
