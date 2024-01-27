@@ -1,6 +1,7 @@
 ---
-title: Home
----
+title: index.md
+filename: index.md
+--- 
 
 # Home
 
