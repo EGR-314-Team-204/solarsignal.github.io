@@ -1,3 +1,8 @@
+---
+title: Team Organization Charter
+filename: Team Org Charter.md
+--- 
+
 # Team Organization Charter
 
 ### Charter: 
