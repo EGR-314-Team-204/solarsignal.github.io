@@ -20,4 +20,4 @@ Professor Travis Kelly
 
 ### [Design Ideation](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Design%20Ideation.md)
 
-### [Appendix A_ Team Organization](https://github.com/EGR-314-Team-204/solarsignal.github.io/edit/main/Appendix%20A_%20Team%20Organization.md)
+### [Appendix A_ Team Organization](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Appendix%20A_%20Team%20Organization.md)
