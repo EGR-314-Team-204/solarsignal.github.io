@@ -47,7 +47,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Team%20Org%20Charter.md)
 
 
 ## References
