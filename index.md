@@ -1,53 +1,23 @@
----
-title: Team Organization Charter
-theme: jekyll-theme-minimal
-filename: Team Org Charter.md
---- 
+# Solar Garden Weather Station
 
-# Home
+## Team 204
 
-## Introduction
-Garden Weather Station
+## Team Members:
 
-EGR 314: Embedded Systems Design Project II
+Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
 
-Spring 2024
+## Preperation Date: 4/18/2024
 
-Brennan Potter
+Arizona State University
 
-Gavin Nielsen
+EGR 314
 
-Jerimah Herrera  
+Professor Travis Kelly
 
-Jacob Cousins
+### [Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Team%20Org%20Charter.md)
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+### [User Needs and Benchmarking](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/User%20Needs.md)
 
-## Research Question
+### [Design Ideation](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Design%20Ideation.md)
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Team%20Org%20Charter.md)
-
-
-## References
+### [Appendix A_ Team Organization](https://github.com/EGR-314-Team-204/solarsignal.github.io/edit/main/Appendix%20A_%20Team%20Organization.md)
