@@ -14,7 +14,7 @@ EGR 314
 
 Professor Travis Kelly
 
-### [Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Report%20Folder/Team%20Org%20Charter.md)
+### [Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Team%20Org%20Charter.md)
 
 ### [User Needs and Benchmarking](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Report%20Folder/User%20Needs.md)
 
