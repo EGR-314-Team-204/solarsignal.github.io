@@ -1,9 +1,4 @@
 ---
-title: index.md
-filename: index.md
---- 
-
----
 title: Team Organization Charter
 filename: Team Org Charter.md
 --- 
