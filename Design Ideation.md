@@ -1,5 +1,8 @@
 # Design Ideation
 
+In our team, Jeremiah and Jacob laid the groundwork for ideas, while Gavin and Brennan integrated them into our collaborative Jamboard sessions. Our most effective brainstorming involves rapid idea-forming, building upon each other's contributions. Individual brainstorming was less successful. Our process for organizing and ranking ideas was guided by customer Voice of Customer (VOC) insights. Each team member sketched a design concept: Gavin - Design Concept 3, Jeremiah - Design Concept 2, and Brennan - Design Concept 1. This division of labor resulted in a diverse portfolio of concepts catering to various user preferences.
+
+
 In the process of generating design ideas, our team adhered to a systematic approach for the effective generation and evaluation of ideas. We commenced the process by employing a digital collaborative tool named Jamboard. Below is a concise overview of the steps we undertook:
 
 1.  Jamboard Creation: Our initial step involved the creation of a Jamboard, where team members collaboratively contributed ideas. Through extensive brainstorming sessions, we successfully generated a comprehensive list of 100 diverse concepts.
