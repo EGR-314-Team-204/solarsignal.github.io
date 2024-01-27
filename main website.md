@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 # Solar Garden Weather Station
 
 ## Team 204
