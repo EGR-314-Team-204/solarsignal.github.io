@@ -1,2 +1,0 @@
-## Video
-[Youtube Video of Our Checkpoint 1](https://www.youtube.com/watch?v=irYp9MbBVfk)
