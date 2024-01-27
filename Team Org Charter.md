@@ -1,5 +1,6 @@
 # Team Organization Charter
  
+ 
  <br>
  
 ## Charter: 
