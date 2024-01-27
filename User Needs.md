@@ -1,5 +1,10 @@
 # User Needs and Benchmarks
 
+Our team organized user needs into broad categories like User Functions, External and Material Qualities, Software and Data, and Hardware and System. Derived from customer VOCs and studying similar products, each category was further refined with subcategories. We used a 1-3 checkmark scale to prioritize ideas, assigning weights through collaboration. The team collectively assessed similar products' positive and negative reviews to determine the importance of each need.
+
+To convert user needs into specifications, we extensively reviewed VOCs and collaborated as a team, focusing on the general takeaways from reviews of similar products. Our assessment criteria for the design are rooted in these VOC findings, ensuring our product meets the expectations gleaned from user feedback.
+
+In documenting our decision-making process, we employed a building method. Ideas were formed collaboratively, with each team member building off of others' contributions. This ensured a systematic approach to recording and justifying decisions throughout the organization and prioritization process.
 
 
 ## [1) 3 in 1 Weather Station Measurer](https://www.amazon.com/yaogohua-Measurer-Thermometer-Indicator-Precipitation/dp/B0B1F7F71X)
