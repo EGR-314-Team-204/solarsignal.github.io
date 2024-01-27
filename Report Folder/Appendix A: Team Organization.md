@@ -1,3 +1,5 @@
+# Appendix A: Team Organization
+
 ### Team Goals:
 
 * Make a functional weather station.
