@@ -20,8 +20,7 @@
 
 ## Meeting Schedule:
 
-This is a really big table that provides nothing to even an appendix page so I wonder if we can just leave this out
-
+![image](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/0300b07e-c621-42b0-b83d-2447d21b2e68)
 
 
 
@@ -31,6 +30,9 @@ Phone Calendar
 Discuss it over Discord
 Discord voice call and in person if the assignment requires more attention to detail
 Be on top of communication for your portion of the assignment. Alert the team if anything has changed or if you need assistance.
+
+
+### Roles and Responsibilities:
 
 
 
@@ -58,6 +60,3 @@ Jacob Cousins 1/10/24
 Jeremiah Herrera 1/10/24
 Brennan Potter 1/10/24
 Gavin Nielsen 1/10/24
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDkyNTA5MF19
--->
