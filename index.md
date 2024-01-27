@@ -22,3 +22,4 @@ Professor Travis Kelly
 
 ### [Appendix A_ Team Organization](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Appendix%20A%20Team%20Organization.md)
 
+### [Link to Youtube Video](https://www.youtube.com/watch?v=irYp9MbBVfk)
