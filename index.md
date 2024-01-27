@@ -1,5 +1,6 @@
 ---
 title: Team Organization Charter
+theme: jekyll-theme-minimal
 filename: Team Org Charter.md
 --- 
 
