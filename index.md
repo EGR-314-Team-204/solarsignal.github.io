@@ -16,7 +16,7 @@ Professor Travis Kelly
 
 ### [Team Organization Charter](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Team%20Org%20Charter.md)
 
-### [User Needs and Benchmarking](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/User%20Needs.md)
+### [User Needs and Benchmarking](/userNeeds.md)
 
 ### [Design Ideation](https://github.com/EGR-314-Team-204/solarsignal.github.io/blob/main/Design%20Ideation.md)
 
