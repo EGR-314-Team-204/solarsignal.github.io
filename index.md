@@ -1,51 +1,25 @@
----
-title: Home
----
+# Solar Garden Weather Station
 
-# Home
+## Team 204
 
-## Introduction
-Garden Weather Station
+## Team Members:
 
-EGR 314: Embedded Systems Design Project II
+Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
 
-Spring 2024
+## Preperation Date: 4/18/2024
 
-Brennan Potter
+Arizona State University
 
-Gavin Nielsen
+EGR 314
 
-Jerimah Herrera  
+Professor Travis Kelly
 
-Jacob Cousins
+### [Team Organization Charter](/teamOrgCharter.md)
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+### [User Needs and Benchmarking](/userNeeds.md)
 
-## Research Question
+### [Design Ideation](/designIdeation.md)
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
+### [Link to Youtube Video](https://www.youtube.com/watch?v=irYp9MbBVfk)
