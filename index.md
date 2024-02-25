@@ -26,7 +26,7 @@ Professor Travis Kelly
 
 ### [Selected Design](/selectedDesign.md)
 
-### [Block Diagram](/teamOrgCharter.md)
+### [Block Diagram](/blockDiagram.md)
 
 ### [Component Selection](/componentSelection.md)
 
