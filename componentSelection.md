@@ -2,7 +2,7 @@
 Maybe put some sort of into here
 
 ## [Temperature Sensor](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)
-<img src="" width="400" height="400">
+<img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2386/150%7EC04-091%7ECT%2C%20OT%7E5.JPG" width="400" height="400">
 
 After researching various temperature sensors that we could use we decided on the TC74A4-3.3VCTTR from Microchip Technology. This is a simple temperature sensor that fits our project perfectly. 
 
