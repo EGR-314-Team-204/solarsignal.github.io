@@ -23,3 +23,15 @@ Professor Travis Kelly
 ### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
 
 ### [Link to Youtube Video](https://www.youtube.com/watch?v=irYp9MbBVfk)
+
+### [Selected Design](/selectedDesign.md)
+
+### [Block Diagram](/teamOrgCharter.md)
+
+### [Component Selection](/componentSelection.md)
+
+### [Microcontroller Selection](/microcontrollerSelection.md)
+
+### [Hardware Proposal](/hardwareProposal.md)
+
+### [Software Proposal](/softwareProposal.md)
