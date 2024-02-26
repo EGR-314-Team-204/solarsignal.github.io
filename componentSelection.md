@@ -59,6 +59,13 @@ For a battery we opted for a simple household 9V battery and we will be using a 
 
 <br>
 
+## [Switching Power Supply](https://www.digikey.com/en/products/detail/onsemi/LM2575D2T-3.3R4G/5801702?utm_adgroup=&utm_term=&utm_content=&gad_source=1)
+<img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2468/D%C2%B2Pak%2CTO-263%3B%205%20Leads.jpg" width="400" height="400">
+
+<br>
+
+<br>
+
 ## [Motor](https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-10846/5318748)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1164/MFG_ROB-10846.jpg" width="400" height="400">
 
