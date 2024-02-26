@@ -36,7 +36,7 @@ There were a few other options for humidity sensors, but after looking around an
 ## [Motor Controller](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/376/P-PG-DSO-12.jpg" width="400" height="400">
 
-We chose the Infineon Technologies IFX9201SGAUMA1 motor controller as it provides exactly the functionality needed for our design compared to other options.
+We chose the Infineon Technologies IFX9201SGAUMA1 motor controller as it provides exactly the functionality needed for our design compared to other options. Additionally, we are familiar with the component, as we used it in our Advances Serial Communications assignment. Furthermore, we have example code that can be used to help us, as well as a working schematic.
 
 - Built in H-Bridge allowing for easier control of our motor
 - Has built in protection features such as over-current, over-temperature, and under-voltage lockout
