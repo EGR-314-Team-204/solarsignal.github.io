@@ -20,8 +20,6 @@ Professor Travis Kelly
 
 ### [Design Ideation](/designIdeation.md)
 
-### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
-
 ### [Link to Youtube Video](https://www.youtube.com/watch?v=irYp9MbBVfk)
 
 ### [Selected Design](/selectedDesign.md)
@@ -35,3 +33,5 @@ Professor Travis Kelly
 ### [Hardware Proposal](/hardwareProposal.md)
 
 ### [Software Proposal](/softwareProposal.md)
+
+### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
