@@ -62,6 +62,8 @@ For a battery we opted for a simple household 9V battery and we will be using a 
 ## [Switching Power Supply](https://www.digikey.com/en/products/detail/onsemi/LM2575D2T-3.3R4G/5801702?utm_adgroup=&utm_term=&utm_content=&gad_source=1)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2468/D%C2%B2Pak%2CTO-263%3B%205%20Leads.jpg" width="400" height="400">
 
+We are using a LM2575-3.3v this component is a simple switcher step-down voltage regulator. With this we will have a fixed output voltage of 3.3V. It can take voltages up to 40V with a 1A load.
+
 <br>
 
 <br>
