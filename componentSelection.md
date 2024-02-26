@@ -42,8 +42,9 @@ We chose the Infineon Technologies IFX9201SGAUMA1 motor controller as it provide
 - Has built in protection features such as over-current, over-temperature, and under-voltage lockout
 - PWM interfaces
 - It has a robust design that can handle harsh conditions
+- The Advanced Serial Communications Assignment utilized this component, familiarizing us with it.
 
-With all of these positives picking this motor controller was an easy choice.
+
 
 <br>
 
