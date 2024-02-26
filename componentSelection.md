@@ -1,5 +1,5 @@
 # Component Selection
-Maybe put some sort of into here
+Component selection is an integral aspect of the engineering design process, as it significantly impacts future design and device development. As a team, we have developed a page dedicated to outlining the components selected for key subsystems, including power management and microcontroller integration, humidity and temperature sensing, and motor driver functionality. Below, you will find the chosen components, along with detailed explanations justifying their selection.
 
 ## [Temperature Sensor](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2386/150%7EC04-091%7ECT%2C%20OT%7E5.JPG" width="400" height="400">
