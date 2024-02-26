@@ -80,7 +80,7 @@ We opted for the simple to use motor  ROB-10846 made by SparkFun Electronics. We
 ## [Solar Panel](https://www.digikey.com/en/products/detail/anysolar-ltd/SM111K10L/9990439)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4431/MFG_SM111K10L.jpg" width="400" height="400">
 
-In keeping with our theme of a simple design we chose this solar panel for our product. It allows for an easy interface and can output more than enough voltage for our circuit and can aid us in charging batteries if we were to design that into a later version of our product. More importantly its a compact set of solar cells, this is crucial for the small form factor we are aiming for.
+Our onboard solar panel is configured in a diode ORing setup, enabling a split of the load between the 9V system and solar power. This design choice aligns with our commitment to the efficiency. The selected solar panel offers ample voltage for our circuit needs and the potential to support battery charging in future iterations. Most notably, the compactness of these solar cells is a key advantage, perfectly suiting the small form factor we are targeting. This configuration not only optimizes our energy management but also ensures our product remains portable.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYyOTI2MTE0NSwxNDEwNDA2NDI3LDkzMj
 c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
