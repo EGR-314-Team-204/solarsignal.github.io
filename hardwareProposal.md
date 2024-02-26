@@ -25,8 +25,3 @@ Team BOM:
 | 15   	| 1        	| U5              	| HDC1080DMBT        	|
 | 16   	| 1        	| U6              	| LM2575-3.3V        	|
 | 17   	| 1        	| U7              	| TC74A0-3P3VCTTR BP 	|
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODkyNjYwNywxMDM4OTI2NjA3LC03Nz
-UxMDgyMjEsMTYzNzkzOTYzNyw3MzA5OTgxMTZdfQ==
--->
