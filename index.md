@@ -36,4 +36,4 @@ Professor Travis Kelly
 
 ### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
 
-### [Test](/test.md)
+### [Team BOM](/teamBOM.md)
