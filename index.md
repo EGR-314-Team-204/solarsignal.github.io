@@ -32,8 +32,10 @@ Professor Travis Kelly
 
 ### [Hardware Proposal](/hardwareProposal.md)
 
+  - ### [Team BOM](/teamBOM.md)
+
 ### [Software Proposal](/softwareProposal.md)
 
 ### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
 
-### [Team BOM](/teamBOM.md)
+
