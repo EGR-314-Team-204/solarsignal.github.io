@@ -14,6 +14,8 @@ EGR 314
 
 Professor Travis Kelly
 
+Introduction:
+
 ### [Team Organization Charter](/teamOrgCharter.md)
 
 ### [User Needs and Benchmarking](/userNeeds.md)
