@@ -32,12 +32,15 @@ Our mission is to introduce an innovative garden weather station that redefines 
 <br>
 
 ## Table of Contents
-| | |
-| --| -- |
-| Team Organization | User Needs |
-| Design Ideation | Selected Design | 
-| Block Diagram | Component Selection | 
-| Hardware Proposal | Software Proposal |
+
+1. [Team Organization](#teamorganization)
+2. [User Needs](#userneeds)
+3. [Design Ideation](#designideation)
+4. [Selected Design](#selecteddesign)
+5. [Block Diagram](#blockdiagram)
+6. [Component Selection](#componentselection)
+7. [Hardware Proposal](#hardwareproposal)
+8. [Software Proposal](#softwareproposal)
 
 <br>
 
