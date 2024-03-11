@@ -15,6 +15,8 @@ EGR 314
 
 Professor Travis Kelly
 
+{% include youtube.html id="irYp9MbBVfk" %}
+
 ## Introduction:
 There are many weather station devices on the market today, our teams goal is to stand out and deliver a product of unrivaled quality. The main components behind this product are the ability to track various aspects about the outside weather and soil moisture levels and relay that to the user to allow them to make the best decisions possible when maintaining a garden. The product will also have an automatically adjustable solar panel that tracks the sun and can deliver power to various other devices of the user’s choosing. Through the use of smart manufacturing techniques we aim to make this device affordable while having it be robust in its functions. Lastly, its ease of use should rival or beat that of other market competitors so that any person, regardless of their technical proficiency, can operate our product to get the most out of it.
 
