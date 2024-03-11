@@ -1,4 +1,4 @@
-#Appendix C Hardware Proposal
+# Appendix C Hardware Proposal
 
 [back to main page](/index.md)
 
