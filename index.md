@@ -22,6 +22,9 @@ There are many weather station devices on the market today, our goal is to stand
 
 <br>
 
+## Table of Contents
+
+
 ## Team Organization:
 
 ### User Friendly Design
@@ -530,7 +533,16 @@ eyJoaXN0b3J5IjpbMTYyOTI2MTE0NSwxNDEwNDA2NDI3LDkzMj
 c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 -->
 
+## Power Budget
+![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/3e1fe0cb-c2dc-4cf8-a718-1929637b7085)
 
+![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/106512cc-21d0-4767-8420-8269b0cf18e2)
+
+![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/44235e53-0436-49c8-a4bf-e6d789ba3051)
+
+![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/42b6142a-d72a-4abf-a1ce-5d630709b470)
+
+TO DO: Explain how you used the power budget to estimate power needs and any conclusions you have come to
 
 ## Hardware Proposal:
 
