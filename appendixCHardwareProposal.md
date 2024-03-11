@@ -1,4 +1,8 @@
-# Team BOM:
+#Appendix C Hardware Proposal
+
+[back to main page](/index.md)
+
+## Team BOM:
 
 | Item 	| Quantity 	| Reference       	| Part               	|
 |------	|----------	|-----------------	|--------------------	|
@@ -19,3 +23,7 @@
 | 15   	| 1        	| U5              	| HDC1080DMBT        	|
 | 16   	| 1        	| U6              	| LM2575-3.3V        	|
 | 17   	| 1        	| U7              	| TC74A0-3P3VCTTR BP 	|
+
+<br>
+
+[back to main page](/index.md)
