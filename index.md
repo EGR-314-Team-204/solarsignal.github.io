@@ -22,8 +22,22 @@ There are many weather station devices on the market today, our goal is to stand
 
 <br>
 
-## Table of Contents
+### Mission Statement:
+Our mission is to introduce an innovative garden weather station that redefines sustainable gardening. Leveraging the synergy of solar tracking technology and environmental sensors, our system meticulously monitors and responds to garden conditions, optimizing solar energy utilization for prolonged operation. With onboard temperature, light, and soil moisture sensors, coupled with a motor-controlled solar panel, we are committed to providing gardeners with a reliable, eco-friendly solution, empowering them to nurture their gardens efficiently and sustainably.
 
+<br>
+
+<br>
+
+## Table of Contents
+| | |
+| --| -- |
+| Team Organization | User Needs |
+| Design Ideation | Selected Design | 
+| Block Diagram | Component Selection | 
+| Hardware Proposal | Software Proposal |
+
+<br>
 
 ## Team Organization:
 
@@ -40,10 +54,6 @@ Recognizing the value of community and expertise in the gardening world, Solar S
 ### Support for Beginner Gardeners
 Understanding that gardening can be a daunting task for beginners, Solar Signal is dedicated to making gardening more accessible and enjoyable for novices. Our garden weather station is designed to provide essential information in a comprehensible format, helping beginners make informed decisions about their gardens. We aim to include educational resources and guidance within our product ecosystem, empowering new gardeners with knowledge about soil conditions, optimal sunlight exposure, and environmental monitoring. By simplifying these complex aspects of gardening, we help beginners grow their skills and confidence in gardening.
 	
- <br>
- 
-### Mission Statement:
-Our mission is to introduce an innovative garden weather station that redefines sustainable gardening. Leveraging the synergy of solar tracking technology and environmental sensors, our system meticulously monitors and responds to garden conditions, optimizing solar energy utilization for prolonged operation. With onboard temperature, light, and soil moisture sensors, coupled with a motor-controlled solar panel, we are committed to providing gardeners with a reliable, eco-friendly solution, empowering them to nurture their gardens efficiently and sustainably.
 
 <br>
 
@@ -84,7 +94,8 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 <br />
 
- User Functions and Quality of Life
+ ### <center> User Functions and Quality of Life
+ ---
  
 | Direct User Needs | Build Quality of Life Needs |
 | -- | -- |
@@ -542,7 +553,7 @@ c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 
 ![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/42b6142a-d72a-4abf-a1ce-5d630709b470)
 
-TO DO: Explain how you used the power budget to estimate power needs and any conclusions you have come to
+For the power budget we took the maximum amperage for each individual subsystem to calculate the power needed for our project. We also are operating at 3.3V which we found that our system will run on the max range of 1201.5 mA. We took the maximum ratings for the susbsystems to over compensate and have enough power to run each system. 
 
 ## Hardware Proposal:
 
