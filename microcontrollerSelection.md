@@ -35,7 +35,7 @@
 
 <br>
 
-**Final Microcontroller Choice:** Option 1: PIC18F46K22**
+**Final Microcontroller Choice:** Option 1: PIC18F46K22
 
 <br>
 
