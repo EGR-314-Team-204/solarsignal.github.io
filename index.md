@@ -74,6 +74,7 @@ In documenting our decision-making process, we employed a building method. Ideas
 <br>
 
 #### Compiled List of User Needs Based Upon Importance
+
 Items are ranked by order of importance, the top of the table being the most important.
 
 <br />
@@ -136,7 +137,7 @@ Items are ranked by order of importance, the top of the table being the most imp
  ---
  
 | Data| Control | Alerts |
-|--|--|--|
+| -- | -- | -- |
 | Statistical Data | Remote access and control | Frost Alerts |
 | Sunlight Quality Sensor | Software optimization for battery life | Custom Alerts |
 | Data based feedback for progress | Simple interface | Phone Alerts/Notifications |
@@ -166,7 +167,7 @@ Items are ranked by order of importance, the top of the table being the most imp
  ---
  
 | Connections | Power Functions |
-|--|--|
+| -- | -- |
 | Stable Wifi connections | Protections against power surges and electrical faults |
 | Compatible with numerous devices | Stable voltage |
 | Simple plugs | Good Micro-controller |
