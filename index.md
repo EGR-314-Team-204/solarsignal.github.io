@@ -206,9 +206,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 ## Product Requirements Document
 
-
 <br>
-
 
 ### Objectives
 The goal for this product is to create a portable weather station that can easily be placed in a home garden. It would be able to track a multitude of different data points including temperature, humidity, soil humidity, and level of light from the sun. The solar panels are capable of tracking the sun’s movement and adjusting the solar panel angle accordingly to get the best power generation possible. This would allow the user to charge and or power any other relevant gardening devices they may have. All data collected will have integration with a phone app and communicate that data over wifi to the user to allow for easy monitoring and maintenance of their plants. The weather station will be built out of durable materials that can withstand being exposed to the sun for extended periods of time and is durable enough to take abuse from any garden pests that might try to damage it. In the event some component breaks the parts can be easily maintained or swapped out.
@@ -236,7 +234,6 @@ The goal for this product is to create a portable weather station that can easil
 
 <br>
 
-<br>
 
 ### Aspects
 
@@ -287,7 +284,6 @@ Interactivity
 <br>
 
 <br>
-
 
 Customization
 
@@ -349,7 +345,6 @@ Regulations
 
 <br>
 
-
 ## Design Ideation:
 
 In our team, Jeremiah and Jacob laid the groundwork for ideas, while Gavin and Brennan integrated them into our collaborative Jamboard sessions. Our most effective brainstorming involves rapid idea-forming, building upon each other's contributions. Individual brainstorming was less successful. Our process for organizing and ranking ideas was guided by customer Voice of Customer (VOC) insights. Each team member sketched a design concept: Gavin - Design Concept 3, Jeremiah - Design Concept 2, and Brennan - Design Concept 1. This division of labor resulted in a diverse portfolio of concepts catering to various user preferences.
@@ -386,18 +381,10 @@ Following the organization of our Jamboard into distinct "bins" representing pot
 
 <br>
 
-<br>
-
-<br>
-
 ### Design 1
 
 ![](https://lh7-us.googleusercontent.com/wIhI-Ran3O0zuBCtxJxnX2CHuYEwJ-sbWZ_HEht6_dvQ0C19erQfH3RY3nSiyiWRljzy7NT1WcYbzz36UW_cjGNBYL-kTJHu67yIBXfxyZddCrgGYJ7AFMOYIRFRJNKhKTYiMdIXhGdpWHdEzODAyW8)
 Design 1 contains a standup approach consisting of various manual buttons and knobs, which will change the pitch of the attached solar panel. The use of flashing LEDs for alerts, a generous LCD screen, and a panel to hide electronics is used to successfully blend into a natural environment, while producing constant solar energy during the day.
-
-<br>
-
-<br>
 
 <br>
 
@@ -408,18 +395,16 @@ Design 2 The concept behind design two is to have a fully sustainable garden wea
   
 <br>
 
-<br>
-
-<br>
-
 ### Design 3
 
 ![](https://lh7-us.googleusercontent.com/pEFUsJ0AbboSfBUCbpcMpDnN1OQJOj7k1feLMLq20Ua1AwzVdHC-JXrPseLfMJKuflS8dPw-C7PleJSY61gGGCp6UPfz1yeiTkw5MkVEODGgcOKtdcRYeGDvDgtcZgk0iXxvhUCu4e3MiWD0usmrpYE)
 Design 3 utilizes a bigger approach, but still blends into the environment by utilizing camouflaging colors. Additionally, the weather guarded solar panel on top is operated by OpenAi’s artificial intelligence, adjusting the pitch of the panel as well as sending alerts and advice. On the front of the device, one can connect to the source directly, as the device has on board power, but can also attach to external devices.
 
+<br>
 
+<br>
 
-
+<br>
 
 ## Selected Design:
 
@@ -430,9 +415,11 @@ After some deliberation we going with the second option. The concept behind desi
 eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 -->
 
+<br>
 
+<br>
 
-
+<br>
 
 ## Block Diagram:
 
@@ -473,8 +460,6 @@ All of these factors fit very well into our design and thus we ultimately chose 
 
 <br>
 
-<br>
-
 ## [Humidity Sensor](https://www.digikey.com/en/products/detail/texas-instruments/HDC1080DMBT/5878615?utm_adgroup=Texas%20Instruments&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Supplier_Texas%20Instruments&utm_term=&utm_content=Texas%20Instruments&utm_id=go_cmp-17816159938_adg-_ad-__dev-c_ext-_prd-5878615_sig-CjwKCAiAtt2tBhBDEiwALZuhAH7JbYuHTQ2nVUpdfYoOB3d2jpY02UwiI9HFjxSbYURg3e6y1LMyfhoCadcQAvD_BwE&gad_source=1)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1001/MFG_HDC1080DMBR.jpg" width="400" height="400">
 
@@ -489,8 +474,6 @@ There were a few other options for humidity sensors, but after looking around an
 
 <br>
 
-<br>
-
 ## [Motor Controller](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/376/P-PG-DSO-12.jpg" width="400" height="400">
 
@@ -502,18 +485,12 @@ We chose the Infineon Technologies IFX9201SGAUMA1 motor controller as it provide
 - It has a robust design that can handle harsh conditions
 - The Advanced Serial Communications Assignment utilized this component, familiarizing us with it.
 
-
-
-<br>
-
 <br>
 
 ## [Battery](https://www.digikey.com/en/products/detail/panasonic-bsg/6LF22XWA-B/5067196)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1302/MFG_6LF22XWA.jpg" width="400" height="400">
 
 For a battery we opted for a simple household 9V battery and we will be using a switching power regulator in order to get the voltage down to 3.3V to power all of our components. Many of our parts are very low power and our max current going through the system is also low, so a simple battery seemed to the best option.
-
-<br>
 
 <br>
 
@@ -524,14 +501,10 @@ We are using a LM2575-3.3v this component is a simple switcher step-down voltage
 
 <br>
 
-<br>
-
 ## [Motor](https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-10846/5318748)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1164/MFG_ROB-10846.jpg" width="400" height="400">
 
 We opted for the simple to use motor  ROB-10846 made by SparkFun Electronics. We wanted a robust motor that would also allow for easy control to help drive the movement of our solar panel. This motor is inexpensive but fits all of our design functions that we need.
-
-<br>
 
 <br>
 
@@ -543,6 +516,7 @@ Our onboard solar panel is configured in a diode ORing setup, enabling a split o
 eyJoaXN0b3J5IjpbMTYyOTI2MTE0NSwxNDEwNDA2NDI3LDkzMj
 c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 -->
+<br>
 
 ## Power Budget
 ![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/3e1fe0cb-c2dc-4cf8-a718-1929637b7085)
