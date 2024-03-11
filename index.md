@@ -79,7 +79,6 @@ Items are ranked by order of importance, the top of the table being the most imp
 <br />
 
  ### <center> User Functions and Quality of Life
- 
  ---
  
 | Direct User Needs | Build Quality of Life Needs |
@@ -107,7 +106,7 @@ Items are ranked by order of importance, the top of the table being the most imp
  ---
  
 | Environmental Needs | Housing Needs |
-|--|--|
+| -- | -- |
 | Weather-Resistant | 3D Printed |
 | Resistant to Corrosion | Easy Integration with Garden Pot |
 | Water-Proof Components | Resist Daily Wear and Tear |
