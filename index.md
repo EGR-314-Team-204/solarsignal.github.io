@@ -33,14 +33,14 @@ Our mission is to introduce an innovative garden weather station that redefines 
 
 ## Table of Contents
 
-1. [Team Organization](#teamorganization)
-2. [User Needs](#userneeds)
-3. [Design Ideation](#designideation)
-4. [Selected Design](#selecteddesign)
-5. [Block Diagram](#blockdiagram)
-6. [Component Selection](#componentselection)
-7. [Hardware Proposal](#hardwareproposal)
-8. [Software Proposal](#softwareproposal)
+1. [Team Organization](#team-organization)
+2. [User Needs](#user-needs-benchmarking-and-requirements)
+3. [Design Ideation](#design-ideation)
+4. [Selected Design](#selected-design)
+5. [Block Diagram](#block-diagram)
+6. [Component Selection](#component-selection)
+7. [Hardware Proposal](#hardware-proposal)
+8. [Software Proposal](#software-proposal)
 
 <br>
 
@@ -67,7 +67,7 @@ The rest of our organization charter can be found [here.](/appendixATeamOrganiza
 
 <br>
 
-## User Needs, Benchmarking, and Requirements:
+## User Needs Benchmarking and Requirements:
 
 Our team organized user needs into broad categories like User Functions, External and Material Qualities, Software and Data, and Hardware and System. Derived from voices of customers and studying similar products, each category was further refined with subcategories. We used a 1-3 checkmark scale to prioritize ideas, assigning weights through collaboration. The team collectively assessed similar products' positive and negative reviews to determine the importance of each need.
 
