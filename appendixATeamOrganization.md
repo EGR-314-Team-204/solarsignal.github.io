@@ -1,5 +1,7 @@
 # Appendix A: Team Organization
 
+[back to main page](/index.md)
+
 ### Team Goals:
 
 * Make a functional weather station.
@@ -103,3 +105,7 @@ Jacob Cousins 1/10/24
 Jeremiah Herrera 1/10/24
 Brennan Potter 1/10/24
 Gavin Nielsen 1/10/24
+
+<br>
+
+[back to main page](/index.md)
