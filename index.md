@@ -53,7 +53,8 @@ Recognizing the value of community and expertise in the gardening world, Solar S
  
 ### Support for Beginner Gardeners
 Understanding that gardening can be a daunting task for beginners, Solar Signal is dedicated to making gardening more accessible and enjoyable for novices. Our garden weather station is designed to provide essential information in a comprehensible format, helping beginners make informed decisions about their gardens. We aim to include educational resources and guidance within our product ecosystem, empowering new gardeners with knowledge about soil conditions, optimal sunlight exposure, and environmental monitoring. By simplifying these complex aspects of gardening, we help beginners grow their skills and confidence in gardening.
-	
+
+The rest of our organization charter can be found [here.](/appendixATeamOrganization.md)
 
 <br>
 
@@ -529,18 +530,25 @@ c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 
 For the power budget we took the maximum amperage for each individual subsystem to calculate the power needed for our project. We also are operating at 3.3V which we found that our system will run on the max range of 1201.5 mA. We took the maximum ratings for the susbsystems to over compensate and have enough power to run each system. 
 
+<br>
+
+<br>
+
+<br>
+
 ## Hardware Proposal:
 
 ![](https://i.imgur.com/WCdaJ1u.jpg)
 
 <br>
 
-### [Team BOM](/teamBOM.md)
+You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 
+<br>
 
+<br>
 
-
-
+<br>
 
 ## Software Proposal:
 
