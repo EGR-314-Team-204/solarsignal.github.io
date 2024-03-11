@@ -80,6 +80,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
  ### <center> User Functions and Quality of Life
  ---
+ 
 | Direct User Needs | Build Quality of Life Needs |
 |--|--|
 | Simple Controls | Long Lifespan |
@@ -103,6 +104,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 ### <center> External/Material Qualities
  ---
+ 
 | Environmental Needs | Housing Needs |
 |--|--|
 | Weather-Resistant | 3D Printed |
@@ -132,6 +134,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 ### <center> Software and Data
  ---
+ 
 | Data| Control | Alerts |
 |--|--|--|
 | Statistical Data | Remote access and control | Frost Alerts |
@@ -161,6 +164,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 ### <center> Hardware and System
  ---
+ 
 | Connections | Power Functions |
 |--|--|
 | Stable Wifi connections | Protections against power surges and electrical faults |
