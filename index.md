@@ -88,9 +88,6 @@ In documenting our decision-making process, we employed a building method. Ideas
 <br>
 
 #### Jamboard Containing 100+ ORGANIZED and RANKED User Needs:![](https://lh7-us.googleusercontent.com/vIPYkoxdIIg_x9lMhKCTLaqpf57OnO-VXQVmqhRnR7brg5wz6MS8uqqsYh0kYE3suXVvjx4B0F2zGeKHgcgx_aQJQQt2OVoBChiWE7o0U4QvDEzMrIjJP5YWeAFeA-wfDCafwk7sg92t8gcgI6PU0uY)
-<br>
-
-<br>
 
 <br>
 
@@ -122,10 +119,6 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 <br />
 
-<br />
-
-<br />
-
 ### <center> External/Material Qualities
  ---
  
@@ -149,10 +142,6 @@ Items are ranked by order of importance, the top of the table being the most imp
 |  | Lightweight |
 |  | Cylindrical Housing |
 |  | Easily Cleanable |
-
-<br>
-
-<br>
 
 <br>
 
@@ -182,10 +171,6 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 <br>
 
-<br>
-
-<br>
-
 ### <center> Hardware and System
  ---
  
@@ -208,9 +193,6 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 <br>
 
-<br>
-
-<br>
 
 ## Product Requirements Document
 
