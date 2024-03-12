@@ -429,6 +429,7 @@ Design 3 utilizes a bigger approach, but still blends into the environment by ut
 After some deliberation we going with the second option. The concept behind design two is to have a fully sustainable garden weather station. We wanted to incorporate a design that could easily be added to an existing garden. On board are a few different features suitable for those who want a garden weather station, some of the sensors include temperature, light sensors, soil moisture monitoring and a motor to control the on board solar panels. Having the ability to control the position of the solar panel allows for a source of power. The readings of the on board sensors can be accessed and viewed via a wifi connection. Mechanically, we will have a watertight seal and the top solar panel section will rotate wusing onboard motor. 
 
 [Back to top](#table-of-contents)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 -->
@@ -445,6 +446,7 @@ eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 Each of us are responsible for our own subsystems to make this project come to life. We have a total of four subsystems. These include the micro controller, temperature sensor, humidity sensor, and motor driver. In addition to this we have a solar panel that is not a dedicated subsystem but will be controlled by the motor driver in order to move. The micro controller is the brains of our design and will help us to control everything. The humidity and temperature sensors will gather their relevant data and feed it back to the end user. With all of these parts combined we aim to make a robust garden weather station that will be simple to use while providing valuable information for whoever uses it.
 
 [Back to top](#table-of-contents)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzMxMjE5MDQ0LC0xOTM1NjQ4NDc2LDY4Nj
 M1MTAzNiwxNzc2MzQ1OTE4LC0yMTI0MjYxMDQxLC0yMDcyMTU2
@@ -532,10 +534,12 @@ We opted for the simple to use motor  ROB-10846 made by SparkFun Electronics. We
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4431/MFG_SM111K10L.jpg" width="400" height="400">
 
 Our onboard solar panel is configured in a diode ORing setup, enabling a split of the load between the 9V system and solar power. This design choice aligns with our commitment to the efficiency. The selected solar panel offers ample voltage for our circuit needs and the potential to support battery charging in future iterations. Most notably, the compactness of these solar cells is a key advantage, perfectly suiting the small form factor we are targeting. This configuration not only optimizes our energy management but also ensures our product remains portable.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYyOTI2MTE0NSwxNDEwNDA2NDI3LDkzMj
 c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 -->
+
 <br>
 
 ## Power Budget
@@ -581,6 +585,7 @@ You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 This is our current version of our software proposal. We are trying to simplify our design as much as possible, as a whole it has only a few functions. It will be able to use the solar panel at the top of the device to help charge batteries and or power the system itself. As of right now we will be manually moving the solar panel with a predefined movement pattern that will go on throughout the day and it will reset back to the original position during the night. The on board humidity and temperature sensors will provide the key data our customers need in order to maintain their garden. We will have our sensors give the customer the data after a set amount of time has passed to keep things simple.
 
 [Back to top](#table-of-contents)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTE1OTAwNTI0XX0=
 -->
