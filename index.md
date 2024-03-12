@@ -347,6 +347,8 @@ Regulations
 
 - The product shall comply with user interface design standards, ensuring accessibility for users with disabilities.
 
+The rest of our user needs document can be found [here.](/appendixBUserNeeds.md)
+
 [Back to top](#table-of-contents)
 
 <br>
