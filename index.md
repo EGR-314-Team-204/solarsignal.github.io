@@ -75,6 +75,8 @@ To convert user needs into specifications, we extensively reviewed various voice
 
 In documenting our decision-making process, we employed a building method. Ideas were formed collaboratively, with each team member building off of others' contributions. This ensured a systematic approach to recording and justifying decisions throughout the organization and prioritization process.
 
+[Back to top](#table-of-contents)
+
 <br>
 
 ### Jamboard Organization of User Needs
@@ -345,15 +347,20 @@ Regulations
 
 - The product shall comply with user interface design standards, ensuring accessibility for users with disabilities.
 
-<br>
+[Back to top](#table-of-contents)
 
 <br>
 
 <br>
+
+<br>
+
 
 ## Design Ideation:
 
 In our team, Jeremiah and Jacob laid the groundwork for ideas, while Gavin and Brennan integrated them into our collaborative Jamboard sessions. Our most effective brainstorming involves rapid idea-forming, building upon each other's contributions. Individual brainstorming was less successful. Our process for organizing and ranking ideas was guided by customer Voice of Customer (VOC) insights. Each team member sketched a design concept: Gavin - Design Concept 3, Jeremiah - Design Concept 2, and Brennan - Design Concept 1. This division of labor resulted in a diverse portfolio of concepts catering to various user preferences.
+
+[Back to top](#table-of-contents)
 
 In the process of generating design ideas, our team adhered to a systematic approach for the effective generation and evaluation of ideas. We commenced the process by employing a digital collaborative tool named Jamboard. Below is a concise overview of the steps we undertook:
 
@@ -406,6 +413,8 @@ Design 2 The concept behind design two is to have a fully sustainable garden wea
 ![](https://lh7-us.googleusercontent.com/pEFUsJ0AbboSfBUCbpcMpDnN1OQJOj7k1feLMLq20Ua1AwzVdHC-JXrPseLfMJKuflS8dPw-C7PleJSY61gGGCp6UPfz1yeiTkw5MkVEODGgcOKtdcRYeGDvDgtcZgk0iXxvhUCu4e3MiWD0usmrpYE)
 Design 3 utilizes a bigger approach, but still blends into the environment by utilizing camouflaging colors. Additionally, the weather guarded solar panel on top is operated by OpenAi’s artificial intelligence, adjusting the pitch of the panel as well as sending alerts and advice. On the front of the device, one can connect to the source directly, as the device has on board power, but can also attach to external devices.
 
+[Back to top](#table-of-contents)
+
 <br>
 
 <br>
@@ -417,6 +426,7 @@ Design 3 utilizes a bigger approach, but still blends into the environment by ut
 ![](https://lh7-us.googleusercontent.com/-74jjEOcOLqmYe8y_dumP0lPtiNK7MmT-U2rlOjLOb_CsrqvCz7Up5lWcngcvPhD5zkk69k9jDZgWyEAuTNPaMG4CUY-izKdjHGGQg-VM2iMagC3b6kNPHrZSxdLyZfB0qpG5wdfYjYkZR2_2KlCQvs)
 After some deliberation we going with the second option. The concept behind design two is to have a fully sustainable garden weather station. We wanted to incorporate a design that could easily be added to an existing garden. On board are a few different features suitable for those who want a garden weather station, some of the sensors include temperature, light sensors, soil moisture monitoring and a motor to control the on board solar panels. Having the ability to control the position of the solar panel allows for a source of power. The readings of the on board sensors can be accessed and viewed via a wifi connection. Mechanically, we will have a watertight seal and the top solar panel section will rotate wusing onboard motor. 
 
+[Back to top](#table-of-contents)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 -->
@@ -432,7 +442,7 @@ eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 ![Block Diagram](https://i.imgur.com/NkegtMJ.png)
 Each of us are responsible for our own subsystems to make this project come to life. We have a total of four subsystems. These include the micro controller, temperature sensor, humidity sensor, and motor driver. In addition to this we have a solar panel that is not a dedicated subsystem but will be controlled by the motor driver in order to move. The micro controller is the brains of our design and will help us to control everything. The humidity and temperature sensors will gather their relevant data and feed it back to the end user. With all of these parts combined we aim to make a robust garden weather station that will be simple to use while providing valuable information for whoever uses it.
 
-
+[Back to top](#table-of-contents)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzMxMjE5MDQ0LC0xOTM1NjQ4NDc2LDY4Nj
 M1MTAzNiwxNzc2MzQ1OTE4LC0yMTI0MjYxMDQxLC0yMDcyMTU2
@@ -451,6 +461,8 @@ QsLTExMDYwNjUyODQsLTY3NTEwMTQ2LDIwNDAyOTc2MjJdfQ==
 ## Component Selection:
 
 Component selection is an integral aspect of the engineering design process, as it significantly impacts future design and device development. As a team, we have developed a page dedicated to outlining the components selected for key subsystems, including power management and microcontroller integration, humidity and temperature sensing, and motor driver functionality. Below, you will find the chosen components, along with detailed explanations justifying their selection.
+
+[Back to top](#table-of-contents)
 
 ## [Temperature Sensor](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268)
 <img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2386/150%7EC04-091%7ECT%2C%20OT%7E5.JPG" width="400" height="400">
@@ -535,6 +547,8 @@ c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 
 For the power budget we took the maximum amperage for each individual subsystem to calculate the power needed for our project. We also are operating at 3.3V which we found that our system will run on the max range of 1201.5 mA. We took the maximum ratings for the susbsystems to over compensate and have enough power to run each system. 
 
+[Back to top](#table-of-contents)
+
 <br>
 
 <br>
@@ -549,6 +563,8 @@ For the power budget we took the maximum amperage for each individual subsystem 
 
 You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 
+[Back to top](#table-of-contents)
+
 <br>
 
 <br>
@@ -561,35 +577,11 @@ You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 
 
 This is our current version of our software proposal. We are trying to simplify our design as much as possible, as a whole it has only a few functions. It will be able to use the solar panel at the top of the device to help charge batteries and or power the system itself. As of right now we will be manually moving the solar panel with a predefined movement pattern that will go on throughout the day and it will reset back to the original position during the night. The on board humidity and temperature sensors will provide the key data our customers need in order to maintain their garden. We will have our sensors give the customer the data after a set amount of time has passed to keep things simple.
+
+[Back to top](#table-of-contents)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTE1OTAwNTI0XX0=
 -->
-
-
-
-### [Team Organization Charter](/teamOrgCharter.md)
-
-### [User Needs and Benchmarking](/userNeeds.md)
-
-### [Design Ideation](/designIdeation.md)
-
-### [Link to Youtube Video](https://www.youtube.com/watch?v=irYp9MbBVfk)
-
-### [Selected Design](/selectedDesign.md)
-
-### [Block Diagram](/blockDiagram.md)
-
-### [Component Selection](/componentSelection.md)
-
-### [Microcontroller Selection](/microcontrollerSelection.md)
-
-### [Hardware Proposal](/hardwareProposal.md)
-
-  - ### [Team BOM](/teamBOM.md)
-
-### [Software Proposal](/softwareProposal.md)
-
-### [Appendix A_ Team Organization](/appendixATeamOrganization.md)
 
 
 <!--stackedit_data:
