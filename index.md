@@ -115,7 +115,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 <br>
 
-### <center> Software and Data
+### <center> User Functions and Quality of Life
  ---
  
 | Direct User Needs | Build Quality of Life Needs |
