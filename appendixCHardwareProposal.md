@@ -1,7 +1,5 @@
 # Appendix C Hardware Proposal
 
-[back to main page](/index.md)
-
 ## Team BOM:
 
 | Item 	| Quantity 	| Reference       	| Part               	|
