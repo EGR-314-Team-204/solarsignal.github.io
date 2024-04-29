@@ -17,7 +17,15 @@ EGR 314
 
 Professor Travis Kelly
 
+<br>
+
+<br>
+
 {% include youtube.html id="irYp9MbBVfk" %}
+
+<br>
+
+<br>
 
 ### Mission Statement:
 Our mission is to introduce an innovative garden weather station that redefines sustainable gardening. Leveraging the synergy of solar tracking technology and environmental sensors, our system meticulously monitors and responds to garden conditions, optimizing solar energy utilization for prolonged operation. With onboard temperature, light, and soil moisture sensors, coupled with a motor-controlled solar panel, we are committed to providing gardeners with a reliable, eco-friendly solution, empowering them to nurture their gardens efficiently and sustainably.
@@ -198,6 +206,16 @@ Items are ranked by order of importance, the top of the table being the most imp
 |  | Small PCB |
 |  | Quietly Operates |
 |  | Smooth translations |
+
+<br>
+
+<br>
+
+The rest of our user needs assignment can be found [here.](/appendixBUserNeeds.md)
+
+<br>
+
+<br>
 
 <br>
 
