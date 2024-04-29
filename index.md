@@ -1,9 +1,11 @@
+# Team 204: Solar Signal 
 
-# Solar Garden Weather Station
+<img src="https://i.imgur.com/XaUBY8S.jpg" width="400" height="400">
 
-## Team 204
 
-## Team Members:
+## Solar Garden Weather Station
+
+### Team Members:
 
 Brennan Potter, Gavin Nielsen, Jeremiah Herrera, Jacob Cousins
 
