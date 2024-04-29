@@ -17,15 +17,15 @@ Professor Travis Kelly
 
 {% include youtube.html id="irYp9MbBVfk" %}
 
-## Introduction:
-There are many weather station devices on the market today, our teams goal is to stand out and deliver a product of unrivaled quality. The main components behind this product are the ability to track various aspects about the outside weather and soil moisture levels and relay that to the user to allow them to make the best decisions possible when maintaining a garden. The product will also have an automatically adjustable solar panel that tracks the sun and can deliver power to various other devices of the user’s choosing. Through the use of smart manufacturing techniques we aim to make this device affordable while having it be robust in its functions. Lastly, its ease of use should rival or beat that of other market competitors so that any person, regardless of their technical proficiency, can operate our product to get the most out of it.
-
-<br>
-
-<br>
-
 ### Mission Statement:
 Our mission is to introduce an innovative garden weather station that redefines sustainable gardening. Leveraging the synergy of solar tracking technology and environmental sensors, our system meticulously monitors and responds to garden conditions, optimizing solar energy utilization for prolonged operation. With onboard temperature, light, and soil moisture sensors, coupled with a motor-controlled solar panel, we are committed to providing gardeners with a reliable, eco-friendly solution, empowering them to nurture their gardens efficiently and sustainably.
+
+<br>
+
+<br>
+
+## Introduction:
+There are many weather station devices on the market today, our teams goal is to stand out and deliver a product of unrivaled quality. The main components behind this product are the ability to track various aspects about the outside weather and soil moisture levels and relay that to the user to allow them to make the best decisions possible when maintaining a garden. The product will also have an automatically adjustable solar panel that tracks the sun and can deliver power to various other devices of the user’s choosing. Through the use of smart manufacturing techniques we aim to make this device affordable while having it be robust in its functions. Lastly, its ease of use should rival or beat that of other market competitors so that any person, regardless of their technical proficiency, can operate our product to get the most out of it.
 
 <br>
 
@@ -40,8 +40,13 @@ Our mission is to introduce an innovative garden weather station that redefines 
 5. [Block Diagram](#block-diagram)
 6. [Component Selection](#component-selection)
 7. [Microcontroller Selection](#microcontroller-selection)
-8. [Hardware Proposal](#hardware-proposal)
-9. [Software Proposal](#software-proposal)
+8. [Hardware Implementationl](#hardware-implementation)
+9. [Software Implementation](#software-implementation)
+10. [System Verification](#system-verification-matrix)
+11. [Lessons Learned](#lessons-learned)
+12. [Recommendations for Future Students](#recommendations-for-future-students)
+
+<br>
 
 <br>
 
@@ -70,7 +75,7 @@ The rest of our organization charter can be found [here.](/appendixATeamOrganiza
 
 ## User Needs Benchmarking and Requirements:
 
-Our team organized user needs into broad categories like User Functions, External and Material Qualities, Software and Data, and Hardware and System. Derived from voices of customers and studying similar products, each category was further refined with subcategories. We used a 1-3 checkmark scale to prioritize ideas, assigning weights through collaboration. The team collectively assessed similar products' positive and negative reviews to determine the importance of each need.
+Our team organized user needs into broad categories like User Functions, External and Material Qualities, Software and Data, and Hardware and System. Derived from voices of customers and studying similar products, each category was further refined with subcategories. We used a 1-3 check mark scale to prioritize ideas, assigning weights through collaboration. The team collectively assessed similar products' positive and negative reviews to determine the importance of each need.
 
 To convert user needs into specifications, we extensively reviewed various voices of customers and collaborated as a team, focusing on the general takeaways from reviews of similar products. Our assessment criteria for the design are rooted in these voices of customers findings, ensuring our product meets the expectations gleaned from user feedback.
 
@@ -197,10 +202,8 @@ Items are ranked by order of importance, the top of the table being the most imp
 
 ## Product Requirements Document
 
-<br>
-
 ### Objectives
-The goal for this product is to create a portable weather station that can easily be placed in a home garden. It would be able to track a multitude of different data points including temperature, humidity, soil humidity, and level of light from the sun. The solar panels are capable of tracking the sun’s movement and adjusting the solar panel angle accordingly to get the best power generation possible. This would allow the user to charge and or power any other relevant gardening devices they may have. All data collected will have integration with a phone app and communicate that data over wifi to the user to allow for easy monitoring and maintenance of their plants. The weather station will be built out of durable materials that can withstand being exposed to the sun for extended periods of time and is durable enough to take abuse from any garden pests that might try to damage it. In the event some component breaks the parts can be easily maintained or swapped out.
+The goal for this product is to create a portable weather station that can easily be placed in a home garden. It would be able to track a multitude of different data points including temperature, humidity, soil humidity, and level of light from the sun. The solar panels are capable of tracking the sun’s movement and adjusting the solar panel angle accordingly to get the best power generation possible. This would allow the user to charge and or power any other relevant gardening devices they may have. All data collected will have integration with wifi so the user can see any relevant data, this would allow for easy monitoring and maintenance of their plants. The weather station will be built out of durable materials that can withstand being exposed to the sun for extended periods of time and is durable enough to take abuse from any garden pests that might try to damage it. In the event some component breaks the parts can be easily maintained or swapped out.
 
 <br>
 
@@ -409,7 +412,7 @@ Design 3 utilizes a bigger approach, but still blends into the environment by ut
 ## Selected Design:
 
 ![](https://lh7-us.googleusercontent.com/-74jjEOcOLqmYe8y_dumP0lPtiNK7MmT-U2rlOjLOb_CsrqvCz7Up5lWcngcvPhD5zkk69k9jDZgWyEAuTNPaMG4CUY-izKdjHGGQg-VM2iMagC3b6kNPHrZSxdLyZfB0qpG5wdfYjYkZR2_2KlCQvs)
-After some deliberation we going with the second option. The concept behind design two is to have a fully sustainable garden weather station. We wanted to incorporate a design that could easily be added to an existing garden. On board are a few different features suitable for those who want a garden weather station, some of the sensors include temperature, light sensors, soil moisture monitoring and a motor to control the on board solar panels. Having the ability to control the position of the solar panel allows for a source of power. The readings of the on board sensors can be accessed and viewed via a wifi connection. Mechanically, we will have a watertight seal and the top solar panel section will rotate wusing onboard motor. 
+After some deliberation we going with the second option. The concept behind design two is to have a fully sustainable garden weather station. We wanted to incorporate a design that could easily be added to an existing garden. On board are a few different features suitable for those who want a garden weather station, some of the sensors include temperature, light sensors, soil moisture monitoring and a motor to control the on board solar panels. Having the ability to control the position of the solar panel allows for a source of power. The readings of the on board sensors can be accessed and viewed via a wifi connection. Mechanically, we will have a watertight seal and the top solar panel section will rotate using onboard motor. 
 
 [Back to top](#table-of-contents)
 
@@ -425,7 +428,7 @@ eyJoaXN0b3J5IjpbLTE4NDE4NTU5NjVdfQ==
 
 ## Block Diagram:
 
-![Block Diagram](https://i.imgur.com/NkegtMJ.png)
+![](https://i.imgur.com/aQNFZLh.png)
 Each of us are responsible for our own subsystems to make this project come to life. We have a total of four subsystems. These include the micro controller, temperature sensor, humidity sensor, and motor driver. In addition to this we have a solar panel that is not a dedicated subsystem but will be controlled by the motor driver in order to move. The micro controller is the brains of our design and will help us to control everything. The humidity and temperature sensors will gather their relevant data and feed it back to the end user. With all of these parts combined we aim to make a robust garden weather station that will be simple to use while providing valuable information for whoever uses it.
 
 [Back to top](#table-of-contents)
@@ -534,7 +537,7 @@ c4NTE5LDEwMDk4NzcxNzYsMjA0MDI5NzYyMl19
 
 ![](https://github.com/EGR-314-Team-204/solarsignal.github.io/assets/157177698/42b6142a-d72a-4abf-a1ce-5d630709b470)
 
-For the power budget we took the maximum amperage for each individual subsystem to calculate the power needed for our project. We also are operating at 3.3V which we found that our system will run on the max range of 1201.5 mA. We took the maximum ratings for the susbsystems to over compensate and have enough power to run each system. 
+For the power budget we took the maximum amperage for each individual subsystem to calculate the power needed for our project. We also are operating at 3.3V which we found that our system will run on the max range of 1201.5 mA. We took the maximum ratings for the subsystems to over compensate and have enough power to run each system. 
 
 [Back to top](#table-of-contents)
 
@@ -598,14 +601,63 @@ eyJoaXN0b3J5IjpbNTM5MDA3MDg4XX0=
 
 <br>
 
-## Hardware Proposal:
+## Hardware Implementation:
 
-![](https://i.imgur.com/WCdaJ1u.jpg)
+![](https://i.imgur.com/dwacYGv.png)
+
+When coming up with this design we had to tackle many different factors. We first needed proper designs for each subsystem and once we confirmed those worked, we had to find a proper MCU to integrate all of our parts into. Once that was achieved we used or MCU data sheet to figure out all the relevant pin assignments that needed to be made for all of our systems. All of this satisfies the user needs for a simple, yet robust, garden weather station that can track various important aspects about any garden that can assist the user in keeping healthy plants. All of our parts combine into a complete package that has a simple set up and ease of use that anyone could pick up, plug in, and start gardening with ease.
 
 <br>
 
 You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 
+<br>
+
+Here are some pictures of our PCB design so you can see how the schematic translated into a physical product.
+
+<br>
+
+### Entire PCB
+
+![](https://i.imgur.com/xSsvG3U.png)
+<br>
+
+### Front Plane of the PCB
+
+![](https://i.imgur.com/qKPd4Kd.png)
+<br>
+
+### Back Plane of the PCB
+
+![](https://i.imgur.com/dfy8XtG.png)
+<br>
+
+<br>
+
+### Pictures of Final Product
+
+![](https://i.imgur.com/FvkJfgH.jpg)
+<br>
+
+![](https://i.imgur.com/PLuhILt.jpg)
+<br>
+
+![](https://i.imgur.com/G39X2Ue.jpg)
+<br>
+
+## V 2.0 of our Hardware
+While we are happy with our overall design, there are still many things to improve and hurdles that we faced that need to ba addressed. Our current design has several potential enhancements that we aim to implement. Initially, we need to address the issues and incompatibilities among existing components. A primary concern involves the humidity sensor—though user-friendly, our chosen sensor, the HDC1080, experiences data transmission problems with the ESP32, an issue discovered post-integration. Therefore, we are prompted to seek a more compatible alternative.
+
+Additionally, the temperature sensor failed to function on our board, leading us to consider more reliable options than those provided in class. Replacing these sensors will not only resolve the functional issues but also enhance the overall system's usability and debugging process.
+
+To improve functionality further, we plan to integrate a light sensor to control the movement of our solar panels automatically. We aim to optimize the solar panels to power the system effectively, with a battery storage system in place to ensure continuous operation. The battery will take over when the solar panel is not generating sufficient energy, thus maintaining consistent system performance regardless of varying sunlight conditions.
+
+For enhanced diagnostics, we are considering the addition of an LCD or OLED display. This upgrade would allow us to monitor sensor values directly, providing a clear, real-time picture of their operational status, which is a significant step up from the basic debug LED currently used. While the LED serves for rudimentary troubleshooting, a display would offer a much more detailed insight into system performance.
+
+Lastly, we are exploring the possibility of implementing a new motor controller that uses I2C to better integrate with our existing subsystems. Our experiences have indicated that managing components on both SPI and I2C within the same MPLab project can be challenging, which may be attributed to the specific PIC or sensors used.
+
+Moving forward, we will conduct thorough research into more compatible components and rigorously test them together before finalizing Version 2.0 of our project. This comprehensive approach will ensure a seamlessly integrated system in our next MPLab project iteration, achieving greater reliability and functionality.
+
 [Back to top](#table-of-contents)
 
 <br>
@@ -614,22 +666,118 @@ You can view our bill of materials [here.](/appendixCHardwareProposal.md)
 
 <br>
 
-## Software Proposal:
+## Software Implementation:
 
 ![enter image description here](https://i.imgur.com/hbpWCdS.png)
 
 
-This is our current version of our software proposal. We are trying to simplify our design as much as possible, as a whole it has only a few functions. It will be able to use the solar panel at the top of the device to help charge batteries and or power the system itself. As of right now we will be manually moving the solar panel with a predefined movement pattern that will go on throughout the day and it will reset back to the original position during the night. The on board humidity and temperature sensors will provide the key data our customers need in order to maintain their garden. We will have our sensors give the customer the data after a set amount of time has passed to keep things simple.
+Based on our user needs we came up with this basic software diagram to illustrate how we want our project to function. We are trying to simplify our design as much as possible, as a whole it has only a few functions. It will be able to use the solar panel at the top of the device to help charge batteries and or power the system itself. As of right now we will be manually moving the solar panel with a predefined movement pattern that will go on throughout the day and it will reset back to the original position during the night. The on board humidity and temperature sensors will provide the key data our customers need in order to maintain their garden. We will have our sensors give the customer the data after a set amount of time has passed to keep things simple.
+
+When trying to design this we had to think of what we wanted to implement versus what we could implement. If we had more time and could go all out then we would have a light sensor that controls the solar panels, integration of data that could turn on other systems in the garden such as sprinklers for example, but we had to reel in expectations and make a software diagram that not only satisfies our user needs, but to help us make a functioning project. That lead us to where our software diagram is as of right now. A simple, yet robust, program that can help our project to run as we need it to.
+
+<br>
+
+### Top 5 changes made from software proposal to implementation
+
+1.  Implementation of On-Board Debugging for Motor Control:
+	- Issue: Initially, the motor in our project was not capable of moving forwards and backwards as required. This was a critical functionality flaw.
+    
+	- Resolution: We decided to utilize the on-board debugging LED to indicate a reverse signal. This involved modifying the motor control code to integrate reverse functionality and using the LED as a visual indicator for debugging and status checking.
+	
+
+2. Modification of Temperature and Humidity Sensor Outputs:
+	-	Issue: The temperature and humidity sensors were not transmitting data correctly to the MQTT server, which was crucial for remote monitoring.
+    
+	- Resolution: The team pivoted to send an example data packet to the MQTT server, mimicking what the actual sensor data should look like. This allowed us to isolate the issue to sensor configuration rather than communication.
+    
+    
+3. Separation of Sensor and Motor Controls onto Different Boards:
+    
+	 - Issue: Integrating the temperature sensor, humidity sensor, and motor on a single board caused conflicts within the MCC (Microchip Code Configuration) settings, leading to operational failures.
+    
+	- Resolution: To overcome this, we deployed two separate boards for demonstration purposes. One board handles the sensors, and the other controls the motor, ensuring that MCC configuration issues are avoided and each function operates reliably.
+
+
+4. Motor does not move using data input:
+    
+	- Issue: Motor does not move as it is stated on our software diagram. We could not get the motor to move by using another subsystem or data input.
+	
+	- Resolution: We instead had to make the motor move on a preset path and rotation amount in order to get it functioning in general.
+
+5. Need a way to debug our code and parts
+
+	- Issue: in our software diagram we did not specify how we would debug any of our subsystems when issues were to eventually arise.
+	- Resolution: We added some very basic LED light control code to various parts to see what was and was not working on our board.
+
+<br>
+
+### V 2.0 of our Software
+In the envisioned Version 2.0 of our software design, we aim to make substantial enhancements that optimize functionality and enhance system robustness. One significant upgrade involves the integration of environmental triggers; specifically, implementing an interrupt-driven system where reaching certain humidity or temperature thresholds automatically activates a misting system. This improvement allows for real-time environmental responsiveness and efficient system operation.
+
+Additionally, we plan to introduce working motor code to enable the solar panel to dynamically track the sun, maximizing energy absorption throughout the day. This adaptive positioning is crucial for boosting the system's overall energy efficiency.
+
+Further enhancements include refining the MQTT server integration, particularly improving how the system handles data transmission from new humidity and temperature sensors. Optimizing code for reliable and timely data communication is essential for effective system monitoring and management.
+
+To enhance system usability and adaptability, we will incorporate a time-based interrupt for automated adjustments, such as repositioning the solar panel at sunset to protect mechanical components. Moreover, an interrupt that allows users to request and receive data instantly will be added, enhancing user interaction by providing immediate feedback and system status.
+
+The software will be divided into several key modules: an Environmental Monitoring Module for handling sensor operations, an Energy Management Module for controlling solar panel orientation, a Communication Module for managing MQTT server interactions, and a User Interface Module for real-time data presentation and user input handling.
+
+To improve debuggability and reliability, we plan to integrate advanced logging and diagnostic capabilities to monitor system performance and swiftly pinpoint issues. Enhanced exception handling will ensure robust error management and system stability.
+
+Overall, these improvements will not only simplify protocol design but also significantly increase the system's reliability, functionality, and user-friendliness. By aligning with technological trends and laying a foundation for future enhancements, this approach ensures that our system remains scalable and sustainable.
 
 [Back to top](#table-of-contents)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1OTAwNTI0XX0=
--->
+<br>
 
+<br>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcwNjg0NDUsMTc0OTk4OTY0OSwxNj
-Y2NTI5NzQ4LC0zMzE0NTI3MTEsMTY5MTIwNTU0MSwxNTk1NTM0
-NDAsNzExNDk4NzI5XX0=
--->
+<br>
+
+## System Verification Matrix
+Here is our final system verification matrix showing all the parts we were able to get connected to each other properly
+
+![](https://i.imgur.com/ItgOht0.png)
+[Back to top](#table-of-contents)
+
+<br>
+
+<br>
+
+<br>
+
+## Lessons Learned
+Throughout the course of our project, our team gained invaluable insights that enriched our understanding of many facets of being an engineer. From design, research, planning, budgeting, debugging, testing, and many more. One of the most crucial lessons was the significance of a visually appealing exterior design, which we found to substantially increase the overall success of the project by attracting more interest and instilling a sense of quality. We also learned the importance of thorough research on components; for instance, discovering that our motor controller required two different voltage inputs was a pivotal detail that could have led to critical issues if overlooked.
+
+Another notable discovery was the efficiency of solder paste in our processes. It reduced the physical stress on our team during soldering and enhanced the neatness and functionality of the printed circuit boards. Similarly, the use of 3D printing was transformative for our prototyping and design evaluation, allowing for quick iterations and precise mock-ups which facilitated better design decisions.
+
+Our project's larger-than-anticipated budget opened up possibilities for incorporating more innovative designs and components, teaching us the importance of budget flexibility. This project also highlighted the value of adaptability; when faced with unforeseen challenges, our ability to pivot and try new approaches kept the project moving forward.
+
+We honed our skills in efficient product research, which proved pivotal in ensuring that our prototype was innovative and functional. The effective use of AI tools assisted with code debugging and generated many ideas for design and component selection, which significantly streamlined our development process. Additionally, mastering GitHub allowed us to create a visually appealing website that effectively demonstrated our product and its capabilities.
+
+Feedback from our design review also played a critical role. Suggestions such as offering the product in different colors and using ASA plastic for UV and outdoor protection guided our next steps in product development. These insights, drawn from both hands-on experiences and constructive feedback, have profoundly shaped our approach to project management and execution, underscoring the importance of aesthetics, technical precision, and ability to adapt in achieving a successful project outcome.
+
+[Back to top](#table-of-contents)
+
+<br>
+
+<br>
+
+<br>
+
+## Recommendations for Future Students
+
+With everything we have learned throughout this course we hope to help any other future students in this class with a small list of advice that helped us in our success of this course.
+
+1.  Stay on top of all of the ICC assignments so you don’t fall behind.
+    
+2.  Try and invest in some extra breadboards to save your circuits, as they can be used in the following weeks homework or in-class checkoffs.
+    
+3.  Keep track of your files for all the assignments by using a designated folder or drive, with a specific naming convention.
+    
+4.  Do your research on what potential microcontrollers require, as well as what functions they do. Specifically, find out how many I2C and SPI channels it has, how it can be programmed, and look into some of the potential pitfalls/issues that are known to the microcontroller.
+    
+5.  Do your research on the circuits and components you decide to use. The components used for the ICC’s are the best case to use, as you already have the circuit and working code and knowledge.
+
+[Back to top](#table-of-contents)
+
