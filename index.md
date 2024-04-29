@@ -111,11 +111,11 @@ In documenting our decision-making process, we employed a building method. Ideas
 
 Items are ranked by order of importance, the top of the table being the most important.
 
-<br />
+<br>
 
-<br />
+<br>
 
- ### <center> User Functions and Quality of Life
+### <center> Software and Data
  ---
  
 | Direct User Needs | Build Quality of Life Needs |
@@ -133,7 +133,7 @@ Items are ranked by order of importance, the top of the table being the most imp
 | No Updates |  |
 | Quick Setup Time |  |
 
-<br />
+<br>
 
 ### <center> External/Material Qualities
  ---
