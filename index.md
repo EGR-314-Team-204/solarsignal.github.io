@@ -623,7 +623,7 @@ eyJoaXN0b3J5IjpbNTM5MDA3MDg4XX0=
 
 ## Hardware Implementation:
 
-![](https://i.imgur.com/dwacYGv.png)
+<img src="https://i.imgur.com/dwacYGv.png" width="2000" height="1000">
 
 When coming up with this design we had to tackle many different factors. We first needed proper designs for each subsystem and once we confirmed those worked, we had to find a proper MCU to integrate all of our parts into. Once that was achieved we used or MCU data sheet to figure out all the relevant pin assignments that needed to be made for all of our systems. All of this satisfies the user needs for a simple, yet robust, garden weather station that can track various important aspects about any garden that can assist the user in keeping healthy plants. All of our parts combine into a complete package that has a simple set up and ease of use that anyone could pick up, plug in, and start gardening with ease.
 
