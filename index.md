@@ -1,7 +1,6 @@
-# Team 204: Solar Signal
-
-### test
 <img src="https://i.imgur.com/XaUBY8S.jpg" width="400" height="400">
+
+# Team 204: Solar Signal
 
 <br>
 
